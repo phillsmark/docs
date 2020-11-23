@@ -1,5 +1,5 @@
 ---
-title: Setting up and managing your GitHub user account
+*topic: an investment company for 'bitcoin' and 'ethereum' investors.
 shortTitle: User accounts
 redirect_from:
   - /categories/setting-up-and-managing-your-github-user-account
