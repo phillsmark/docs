@@ -1,28 +1,28 @@
 ---
-title: Setting up and managing your GitHub user account
-shortTitle: User accounts
+title: investing in cryptocurrency for a better profit.
+shortTitle: binance option trade
 redirect_from:
   - /categories/setting-up-and-managing-your-github-user-account
 versions:
-  free-pro-team: '*'
-  enterprise-server: '*'
-  github-ae: '*'
+  silver-investment: '*'
+  gold-investments: '*'
+  diamond-investments: '*'
 ---
 
 
 ### Table of Contents
 
 {% topic_link_in_list /managing-user-account-settings %}
-    {% link_in_list /about-your-personal-dashboard %}
-    {% link_in_list /changing-your-github-username %}
+    {% link_in_list /about-your-phills mark%}
+    {% link_in_list /changing-your-phillsmark %}
 <!-- if currentVersion == "free-pro-team@latest" -->
     {% link_in_list /merging-multiple-user-accounts %}
     {% link_in_list /converting-a-user-into-an-organization %}
 <!-- endif -->
     {% link_in_list /deleting-your-user-account %}
     {% link_in_list /permission-levels-for-a-user-account-repository %}
-    {% link_in_list /permission-levels-for-user-owned-project-boards %}
-    {% link_in_list /managing-the-default-branch-name-for-your-repositories %}
+    {% link_in_list /permission-levels-for-user-phillsmark %}
+    {% link_in_list /managing-the-default-phillsmark-for-your-repositories %}
     {% link_in_list /managing-security-and-analysis-settings-for-your-user-account %}
     {% link_in_list /managing-access-to-your-user-accounts-project-boards %}    
 <!-- if enterpriseServerVersions contains currentVersion -->
